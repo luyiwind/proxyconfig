@@ -7,7 +7,7 @@ source-files:
   # use local file
   #- ./config/source.yaml
   # use web file
-  - https://example.com/config/source.yaml
+  - https://raw.githubusercontent.com/back8/github_Jacobax_proxypool_source/main/source1.yaml
 
 # ======= 可选项，留空使用default值  =======
 
