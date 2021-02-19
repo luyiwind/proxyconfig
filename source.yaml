@@ -1,6 +1,11 @@
 # 订阅链接
-- type: clash
-  options:
+#- type: clash
+  #options:
     #url: https://suo.yt/273KGA0
-    url: http://158.101.69.19/api/public/dl/tGFRvGyc/vmess.txt
+    #url: http://158.101.69.19/api/public/dl/tGFRvGyc/vmess.txt
 
+
+# 订阅链接
+- type: subscribe
+  options:
+    url: https://proxypoolss.tk/sip002/sub
