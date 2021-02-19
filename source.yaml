@@ -4,6 +4,6 @@
     url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
 
 # 模糊抓取订阅链接
-- type: webfuzzsub
+- type: webfuzz
   options:
     url: https://proxypoolss.tk/
