@@ -2,6 +2,9 @@
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
+- type: webfuzzsub
+  options:
+    url: https://proxypoolss.tk/
 
 # 订阅链接
 - type: subscribe
