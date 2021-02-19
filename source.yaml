@@ -3,7 +3,7 @@
   options:
     url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
 
-# 模糊抓取订阅链接
-- type: webfuzz
+# 订阅链接
+- type: subscribe
   options:
-    url: https://proxypoolss.tk/
+    url: https://proxypoolss.tk/ss/sub
