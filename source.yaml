@@ -1,4 +1,4 @@
 # 订阅链接
-- type: webfuzzsub
+- type: webfuzz
   options:
     url: https://proxypoolss.tk/clash/proxies
