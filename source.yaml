@@ -1,9 +1,4 @@
-# clash格式订阅链接
-- type: clash
-  options:
-    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
-
 # 订阅链接
 - type: subscribe
   options:
-    url: https://proxypoolss.tk/vmess/sub
+    url: https://proxypoolss.tk/clash/proxies
