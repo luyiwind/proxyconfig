@@ -35,6 +35,9 @@
 - type: webfuzz
   options:
     url: https://fanqiang.network/free-v2ray
+- type: webfuzz
+  options:
+    url: https://lightyearapp.life/zh/free-vpn
 
 # tg订阅+节点
 
