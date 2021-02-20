@@ -16,7 +16,9 @@
 - type: webfuzzsub
   options:
     url: https://github.com/pojiezhiyuanjun/freev2
-
+- type: webfuzzsub
+  options:
+    url: https://raw.githubusercontent.com/alicesufree/proxypoolconfig/main/source.yaml
 # 爬节点
 - type: webfuzz
   options:
