@@ -5,7 +5,10 @@
 - type: clash
   options:
     url: http://158.101.69.19/api/public/dl/136fbwiJ/proxies.yaml
-    
+- type: clash
+  options:
+    url: https://proxypoolsstest.herokuapp.com/clash/proxies
+
 # 爬订阅链接
 - type: webfuzzsub
   options:
