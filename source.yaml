@@ -85,10 +85,6 @@
     num: 200
 - type: tgchannel
   options:
-    channel: ssrtool_crack
-    num: 200
-- type: tgchannel
-  options:
     channel: moneyfly01
     num: 200
 - type: tgchannel
@@ -392,3 +388,20 @@
 - type: webfuzz
   options:
     url: https://www.ssrshare.com/forums/19
+    
+# 翻墙党论坛抓取
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum-48-1.html
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum.php?mod=rss&fid=50&auth=0
+    num: 100
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum.php?mod=rss&fid=2&auth=0
+    num: 300
+- type: web-fanqiangdang
+  options:
+    url: https://fanqiangdang.com/forum.php?mod=rss&fid=36&auth=0
+    num: 300
