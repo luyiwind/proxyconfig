@@ -203,7 +203,25 @@
 - type: subscribe
   options:
     url: http://dy.v3pro.xyz/link/ZKVLPvHK94loF4Sk?sub=3&extend=1
-    
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/jsnjsnwbtwbt/2D2F/main/2C2F
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/jsnjsnwbtwbt/TEzNC1jOTY1ZGE5OWM1ZT/main/Stable
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/IPLC
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/README.md
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/SurfShark 
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/plate 
+ 
 # 网页模糊抓取
 - type: webfuzz
   options:
