@@ -22,6 +22,9 @@
 - type: webfuzzsub
   options:
     url: https://fanqiangdang.com/forum.php?mod=rss&fid=51&auth=0
+- type: webfuzzsub
+  options:
+    url: https://fanqiang.network/shadowsocks-servers
 # 爬节点
 - type: webfuzz
   options:
@@ -32,9 +35,6 @@
 - type: webfuzz
   options:
     url: https://lisondawang.tk/jiedianfenxiang.html
-- type: webfuzz
-  options:
-    url: https://fanqiang.network/shadowsocks-servers
 - type: webfuzz
   options:
     url: https://fanqiang.network/free-v2ray
@@ -195,7 +195,7 @@
 - type: webfuzzsub
   options:
     url: https://raw.githubusercontent.com/du5/free/master/sub.list
-
+    
 # 订阅链接
 - type: subscribe
   options:
@@ -208,9 +208,6 @@
 - type: webfuzz
   options:
     url: https://merlinblog.xyz/wiki/freess.html
-- type: webfuzz
-  options:
-    url: https://github.com/pojiezhiyuanjun/freev2
 
 # clash格式订阅链接
 - type: clash
@@ -325,55 +322,6 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
-
-# 网页模糊抓取
-- type: webfuzz
-  options:
-    url: https://winxray.com/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9
-
-# 模糊抓取订阅链接
-- type: webfuzzsub
-  options:
-    url: https://winxray.com/%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9
-# 网页模糊抓取
-- type: webfuzz
-  options:
-    url: https://free-ss.site
-
-# 网页模糊抓取
-- type: webfuzz
-  options:
-    url: https://www.wujievpn.xyz
-
-# 网页模糊抓取
-- type: webfuzz
-  options:
-    url: https://catcloud.fun
-
-# 网页模糊抓取
-- type: webfuzz
-  options:
-    url: https://v2.hor1zon.xyz
-
-# 网页模糊抓取
-- type: webfuzz
-  options:
-    url: https://se13.xyz
-
-# 网页模糊抓取
-- type: webfuzz
-  options:
-    url: https://starscloud.tk
-
-# 网页模糊抓取
-- type: webfuzz
-  options:
-    url: https://pro.amna.cc
-
-# 网页模糊抓取
-- type: webfuzz
-  options:
-    url: https://www.ssrshare.com/forums/19
     
 # 翻墙党论坛抓取
 - type: web-fanqiangdang
