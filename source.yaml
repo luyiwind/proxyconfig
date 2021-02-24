@@ -12,10 +12,7 @@
 # 爬订阅链接
 - type: webfuzzsub
   options:
-    url: https://raw.githubusercontent.com/oouxx/fqsub/master/sub.list
-- type: webfuzzsub
-  options:
-    url: https://github.com/JACKUSR2089/v2ray-subscribed   
+    url: https://raw.githubusercontent.com/oouxx/fqsub/master/sub.list  
 - type: webfuzzsub
   options:
     url: https://github.com/pojiezhiyuanjun/freev2
@@ -26,6 +23,9 @@
   options:
     url: https://fanqiangdang.com/forum.php?mod=rss&fid=51&auth=0
 # 爬节点
+- type: webfuzz
+  options:
+    url: https://github.com/JACKUSR2089/v2ray-subscribed 
 - type: webfuzz
   options:
     url: https://telegra.ph/2020-10-3-10-02
@@ -41,7 +41,9 @@
 - type: webfuzz
   options:
     url: https://lightyearapp.life/zh/free-vpn
-
+- type: webfuzz
+  options:
+    url: https://github.com/umelabs/node.umelabs.dev
 # tg订阅+节点
 
 - type: tgchannel
@@ -293,21 +295,6 @@
 # 订阅链接
 - type: subscribe
   options:
-    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SS.md
-
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/SSR.md
-
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
-
-# 订阅链接
-- type: subscribe
-  options:
     url: https://hyt-allen-xu.netlify.app
 
 # tg频道抓取
@@ -338,11 +325,6 @@
 - type: clash
   options:
     url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.yml
-
-# 订阅链接
-- type: subscribe
-  options:
-    url: https://raw.githubusercontent.com/adiwzx/freenode/main/adispeed.txt
 
 # 网页模糊抓取
 - type: webfuzz
