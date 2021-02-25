@@ -25,6 +25,10 @@
 - type: webfuzzsub
   options:
     url: https://fanqiang.network/shadowsocks-servers
+- type: webfuzzsub
+  options:
+    url: https://toscode.gitee.com/baipengayn/proxypool/raw/master/source.yaml
+    
 # 爬节点
 - type: webfuzz
   options:
