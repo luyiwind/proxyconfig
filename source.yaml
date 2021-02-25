@@ -221,7 +221,9 @@
 - type: subscribe
   options:
     url: https://raw.githubusercontent.com/coolapijust/cxkv2-/main/plate 
- 
+- type: subscribe
+    options:
+      url: https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=d309c6921bbd7d0d
 # 网页模糊抓取
 - type: webfuzz
   options:
