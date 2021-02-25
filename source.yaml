@@ -48,8 +48,11 @@
 - type: webfuzz
   options:
     url: https://github.com/umelabs/node.umelabs.dev
+  - type: webfuzz
+    options:
+      url: https://zfjvpn.gitbook.io/123
+      
 # tg订阅+节点
-
 - type: tgchannel
   options:
     channel: NetfreexSrV
@@ -230,6 +233,9 @@
       url: https://www.liesauer.net/yogurt/subscribe?ACCESS_TOKEN=d309c6921bbd7d0d
 # 网页模糊抓取
 - type: webfuzz
+  options:
+    url: https://merlinblog.xyz/wiki/freess.html
+- type: webfuzzsub
   options:
     url: https://merlinblog.xyz/wiki/freess.html
 
