@@ -1,8 +1,7 @@
 # 订阅链接
 - type: clash
   options:
-    url: https://free.kingfu.cf/clash/config
-
+    url: https://free.kingfu.cf/clash/proxies
 # 爬订阅链接
 - type: webfuzzsub
   options:
@@ -38,9 +37,6 @@
 - type: webfuzz
   options:
     url: https://github.com/umelabs/node.umelabs.dev
-- type: webfuzz
-  options:
-    url: https://free.kingfu.cf/clash/proxies
 # tg订阅+节点
 
 - type: tgchannel
